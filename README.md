@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+[
 
-You can use the [editor on GitHub](https://github.com/Kumar774Ak/kumar774ak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+{
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"versao":"2.0",
 
-### Markdown
+"aviso":"Aviso",
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"mensagem":"NOVA ATUALIZAÇÃO! ATUALIZE PARA A V20.\n\nAssista o vídeo para apoiar o canal!",
 
-```markdown
-Syntax highlighted code block
+"ok":"",
 
-# Header 1
-## Header 2
-### Header 3
+"cancelar":"ok",
 
-- Bulleted
-- List
+"link":"https://youtube.com/channel/UC9uInKpZ1B_NzRqqGqzsCfA",
 
-1. Numbered
-2. List
+"nomedocanal":"FaNt MoD",
 
-**Bold** and _Italic_ and `Code` text
+"link2":"https://youtube.com/channel/UC9uInKpZ1B_NzRqqGqzsCfA",
 
-[Link](https://youtube.com/channel/UCuQIs7_yni-KuoU2guSgFsw) and ![Image](src)
-```
+"linkfriend":"https://youtube.com/c/JaumHTS",
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+"usuario":"Jato30k",
 
-### Jekyll Themes
+"senha":"204823",
 
-Your Pages site will use the layout and styles from the Jekyll thennme you have selected in your [repository settings](https://github.com/Kumar774Ak/kumar774ak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"userletramaior":"JATO30K",
 
-### Support or Contact
+"criador":" Criado Por Jato v1.69.X",
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+"espnomes":" ESP Name",
+
+"aimbot":"Aimbot Quadril",
+
+"toast":"Aviso",
+
+"safe":"COMPLETO",
+
+"versaomenu":"\nEscolha uma versão",
+
+"curiosoaq":"kkk",
+
+"textupdate":"Versão atualizada.",
+
+"textmensagem":"O FFH4X Irá abrir em breve\nPor favor espere algumas\nHoras para usar o mod!",
+
+"detalhes":"Detalhes",
+
+"textatualizado":"Irá abrir às, ",
+
+"txthours":"10:30 da manhã",
+
+"linkupdate":"https://youtube.com/channel/UC9uInKpZ1B_NzRqqGqzsCfA",
+
+"okupdate":"OK",
+
+"cancelarupdate":""
+
+}
+
+]
